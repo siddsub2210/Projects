@@ -1,0 +1,32 @@
+The Hunger Games,1000,10000,Suzanne Collins,9780,Borrowed,5
+Harry Potter,1001,10001,JK Rowling,2003,Borrowed,5
+The Jungle Book,1002,10002,Rudyard Kipling,1993,Borrowed,1
+A Tale of Two Cities,1003,10003,Charles Dickens,1859,Borrowed,4
+The Hobbit,1004,10004,J. R. R. Tolkien,2004,Available,-1
+The Da Vinci Code,1005,10005,Dan Brown,1991,Borrowed,4
+Moby-Dick,1006,10009,Herman Melville,1851,Borrowed,4
+Wimpy Kid,1007,20009,Jeff Kinney,2011,Borrowed,4
+Wuthering Heights,1008,20020,Emily Bront‰,1847,Available,-1
+War and Peace,1009,20021,Tolstoy,1869,Available,-1
+David Copperfield,1010,20022,Charles Dickens,1849,Available,-1
+Atomic Habits,1011,20023,James Clear,2017,Available,-1
+How come no one told me that?,1012,20024,Prakash Iyer,2018,Available,-1
+Advanced Data Structures,1013,20025,Mark Allan Weiss,2007,Available,-1
+The Art of Perfect Driving,1014,200026,KTS,2020,Available,-1
+Gulliver's Travels,1015,20027,Jonathan Swift,1726,Available,-1
+The boy who harnessed the wind,1016,20029,William Kamkwambe,2001,Available,-1
+August 1914,1017,20030,Alexander Solzhenitsyn,2003,Available,-1
+The world as I see it,1018,20031,Albert Einstein,1963,Available,-1
+Adventures of Tom Sawyer,1019,20032,Mark Twain,1998,Available,-1
+Alice in Wonderland,1020,20033,Lewis Carol,1993,Available,-1
+Charlie and the chocolate factory,1021,20034,Roald Dahl,1964,Available,-1
+Matilda,1022,20035,Roald Dahl,1988,Available,-1
+The BFG,1023,20036,Roald Dahl,1982,Available,-1
+It starts with us,1024,20037,Coolleen Hoover,2022,Available,-1
+It ends with us,1025,20038,Coolleen Hoover,2021,Available,-1
+The wolf of Wall street,1026,20039,Jordan Belfort,2010,Available,-1
+Animal farm,1027,20040,George Orwell,1945,Available,-1
+How to kill a mockingbird,1028,20041,Harper Lee,2018,Available,-1
+Catch me if you can,1029,20042,Steven Spielberg,2002,Available,-1
+Forrest Gump,1030,20043,Winston Groom,1980,Available,-1
+Autobiagraph of a yogi,1031,100059,Sri Yogananda Paramahamsa,1963,Available,-1

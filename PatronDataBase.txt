@@ -1,0 +1,12 @@
+Shyam S V,6379132828,1,Student,true,false,1
+Sachin,899992828,5,WorkingProfessional,true,true,5
+Shri Vishaal,989992828,6,WorkingProfessional,true,false,2
+Siddharth Subramanian,9379132844,2,Student,true,false,0
+KTS,9956132828,3,Student,true,true,4
+RTS,699992828,4,Student,true,false,1
+Seetharam,565992828,8,Student,true,false,0
+Sindhujaa,8600134556,11,Student,true,false,0
+KTS,9956132828,12,WorkingProfessional,true,false,0
+Jasmithaa,9940123456,13,WorkingProfessional,true,false,0
+DSM,1234567890,14,Student,true,false,0
+Shreevathsan G,1234567890,15,Student,true,false,0
